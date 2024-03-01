@@ -30,3 +30,12 @@ body{
    header li a:hover:not(.active) {
       background-color: #111;
     }
+   footer{
+    background-color: azure;
+    height: 100px;
+   }
+    footer .div00{
+        display:flex;
+        justify-content:;
+        align-items: center;
+    }
