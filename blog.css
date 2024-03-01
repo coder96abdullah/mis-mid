@@ -35,7 +35,10 @@ body{
     height: 100px;
    }
     footer .div00{
+        padding-top: 20px;
+        padding-right: 10px;
+        padding-left: 10px;
         display:flex;
-        justify-content:;
+        justify-content:space-between;
         align-items: center;
     }
